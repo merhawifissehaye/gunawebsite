@@ -1,0 +1,7 @@
+[14-Mar-2015 09:04:26 UTC] PHP Fatal error:  Can't use function return value in write context in /home4/gthplcco/laravel/app/routes.php on line 284
+[08-Jun-2015 13:03:23 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home4/gthplcco/laravel/app/controllers/GalleryController.php on line 64
+[09-Jun-2015 09:02:27 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home4/gthplcco/laravel/app/controllers/GalleryController.php on line 64
+[11-Jun-2015 15:45:02 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home4/gthplcco/laravel/app/controllers/GalleryController.php on line 64
+[17-Jun-2015 08:46:38 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home4/gthplcco/laravel/app/controllers/GalleryController.php on line 64
+[21-Jul-2015 14:33:39 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home4/gthplcco/laravel/app/controllers/GalleryController.php on line 64
+[20-Oct-2015 07:45:53 UTC] PHP Fatal error:  Call to a member function getClientOriginalName() on a non-object in /home5/gunatrad/laravel/app/controllers/GalleryController.php on line 64

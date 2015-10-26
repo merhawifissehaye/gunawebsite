@@ -1,0 +1,8 @@
+[31-Oct-2014 01:28:36] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:28:36] PHP Parse error:  syntax error, unexpected T_STRING in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:28:58] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:28:58] PHP Parse error:  syntax error, unexpected T_STRING in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:29:11] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:29:11] PHP Parse error:  syntax error, unexpected T_STRING in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:29:43] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home2/gunathco/laravel/artisan on line 46
+[31-Oct-2014 01:29:43] PHP Parse error:  syntax error, unexpected T_STRING in /home2/gunathco/laravel/artisan on line 46
